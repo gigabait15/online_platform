@@ -35,7 +35,7 @@
 чтобы запустить проект, необходимо следовать следующим шагам:
 1. Клонировать репозиторий
 ~~~
--git clone https://github.com/gigabait15/...
+-git clone https://github.com/gigabait15/https://github.com/gigabait15/online_platform.git
 ~~~
 2.Установите необходимые зависимости:
 ~~~
